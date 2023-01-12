@@ -93,11 +93,11 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=faheemahmad227&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=faheemahmad227&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" > -->
 
-<!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=faheemahmad227&theme=dark" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=faheemahmad227&theme=dark" width="45%" >
 
-<hr>
+<!-- <hr>
  <h3><b>Language Meter:</b></h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheemahmad227&layout=compact" alt="faheemahmad227" /></p>
 
