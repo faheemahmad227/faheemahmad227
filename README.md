@@ -95,11 +95,11 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=faheemahmad227&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=faheemahmad227&theme=dark" width="45%" >
+<!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=faheemahmad227&theme=dark" width="45%" >
 
 <hr>
  <h3><b>Language Meter:</b></h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheemahmad227&layout=compact" alt="faheemahmad227" /></p>
 
 <h3> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=faheemahmad227&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=faheemahmad227&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" /> -->
