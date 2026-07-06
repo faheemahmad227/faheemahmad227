@@ -2,7 +2,7 @@
 
 **CS Master's student at Paderborn University · Ex-Software Engineer @ Cognizant · Building at the intersection of ML and backend engineering**
 
-I spent three years as a Software Engineer at Cognizant maintaining and modernizing enterprise .NET applications on Azure — building CI/CD pipelines, ETL workflows, and systems serving 10,000+ users. Now I'm pursuing my Master's in Computer Science in Germany, focused on machine learning: from RAG pipelines and LLMs to graph neural networks and explainable AI.
+I spent three years as a Software Engineer at Cognizant maintaining and modernizing enterprise .NET applications on Azure - building CI/CD pipelines, ETL workflows, and systems serving 10,000+ users. Now I'm pursuing my Master's in Computer Science in Germany, focused on machine learning: from RAG pipelines and LLMs to graph neural networks and explainable AI.
 
 - 🔭 Currently working on the **ARAG Data Pipeline** — a modular Retrieval-Augmented Generation system with hybrid retrieval (semantic + keyword search) that grounds LLM outputs in verifiable sources to reduce hallucination and enable source attribution
 - 🌱 Deepening my knowledge in **NLP, knowledge graphs, and MLOps**
