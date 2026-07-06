@@ -1,3 +1,4 @@
+![Faheem Ahmad — ML Engineer](github-banner.svg)
 # Hi, I'm Faheem Ahmad 👋
 
 **CS Master's student at Paderborn University · Ex-Software Engineer @ Cognizant · Building at the intersection of ML and backend engineering**
