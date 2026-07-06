@@ -1,7 +1,4 @@
 ![Faheem Ahmad — ML Engineer](github-banner.svg)
-# Hi, I'm Faheem Ahmad 👋
-
-**CS Master's student at Paderborn University · Ex-Software Engineer @ Cognizant · Building at the intersection of ML and backend engineering**
 
 I spent three years as a Software Engineer at Cognizant maintaining and modernizing enterprise .NET applications on Azure - building CI/CD pipelines, ETL workflows, and systems serving 10,000+ users. Now I'm pursuing my Master's in Computer Science in Germany, focused on machine learning: from RAG pipelines and LLMs to graph neural networks and explainable AI.
 
