@@ -1,106 +1,72 @@
-<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Faheem Ahmad  ! </h1>
-<h3 align="center">I'm a passionate Data Science Enthusiast, Web Developer, Youtuber, Blogger, Programmer</h3>
-<h4 align="center">To touch the zenith of career by converting my innovative ideas into fruitful results and to work in cutting edge competitive industry and challenging work environment to conduce the best of my ability towards the growth and development of the organization. Looking to embark on a new path with dynamic teams.</h4>
+# Hi, I'm Faheem Ahmad 👋
+
+**CS Master's student at Paderborn University · Ex-Software Engineer @ Cognizant · Building at the intersection of ML and backend engineering**
+
+I spent three years as a Software Engineer at Cognizant maintaining and modernizing enterprise .NET applications on Azure — building CI/CD pipelines, ETL workflows, and systems serving 10,000+ users. Now I'm pursuing my Master's in Computer Science in Germany, focused on machine learning: from RAG pipelines and LLMs to graph neural networks and explainable AI.
+
+- 🔭 Currently working on the **ARAG Data Pipeline** — a modular Retrieval-Augmented Generation system with hybrid retrieval (semantic + keyword search) that grounds LLM outputs in verifiable sources to reduce hallucination and enable source attribution
+- 🌱 Deepening my knowledge in **NLP, knowledge graphs, and MLOps**
+- 💼 Open to **working student roles and internships** in ML/software engineering
+- ✍️ I write and create educational tech content at [TechiesTalk](https://techiestalk.in) and on [YouTube](https://www.youtube.com/c/TechiesTalk)
+- 📫 Reach me at **faheemahmad.de@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
+**Backend & Frameworks**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Data, Cloud & MLOps**
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=icloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **ARAG Data Pipeline** 🚧 *in progress* | Modular RAG pipeline with hybrid retrieval (semantic + keyword), structured context augmentation, and grounded generation — improving factual consistency and source attribution over standalone LLMs | Python, RAG, Hybrid Retrieval, LLMs |
+| **Harvest Helper** | AI-powered crop advisor: Gradient Boosting recommender (99.7% top-3 accuracy) + RAG pipeline with LLaMA 3.3 70B over FAISS, fused with real-time weather and Sentinel-2 satellite data | FastAPI, RAG, LLaMA, FAISS |
+| **Explainable GNN on Knowledge Graphs** | R-GCN for node classification on the AIFB knowledge graph (91.7% accuracy) with interpretability analysis of model decisions | PyTorch Geometric, R-GCN, RDFLib |
+| **TapShip** | e-Mandi platform connecting farmers directly to buyers — awarded a VTU innovation grant in agricultural technology | PHP, MySQL, JavaScript |
+| **Drowsiness Detection Device** | Real-time driver drowsiness detection via eye-blink tracking with automated IoT SMS alerts | OpenCV, Computer Vision, IoT |
+
+---
+
+## 📊 GitHub Stats
+
 <p>
-<img src="https://komarev.com/ghpvc/?username=faheemahmad227&label=Profile%20views&color=0e75b6&style=flat" alt="faheemahmad227" />
-    <a href="https://github.com/faheemahmad227/"><img src="https://img.shields.io/github/followers/faheemahmad227?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-    <a href="https://github.com/faheemahmad227?tab=repositories">
-      </p>
-  
-<hr>
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-  
- ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[TapShip](https://tapship.herokuapp.com/)**
-
-- 🌱 I’m currently learning **Machine Learning and Data Science**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my blogs are available at **[My Website](https://techiestalk.in)**
-
-- 📫 How to reach me **faheemahmad227@gmail.com**
-
-- ⚡ Fun fact **I create Educational content and love to code.**
-
-<h3> 🏆 Badges </h3>
-<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
-
-<h3 align="left"> 🤝 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/faheemahmad227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="faheemahmad227" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faheemahmad227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="faheemahmad227" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/TechiesTalk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="faheemahmad227" height="30" width="40" /></a>
-
-<h3 align="left"> 🧡 Support:</h3>
-<p><a href="https://www.buymeacoffee.com/faheemahmad227"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faheemahmad227" /></a></p><br><br><br>
-
-## 👨‍💻 Languages and Tools
-<p align="left">
-    <a href="https://www.python.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://devdocs.io/c/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt="c" width="50" height="50"/></code> 
-    </a>
-    <a href="https://devdocs.io/cpp/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.java.com/en/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original.svg" alt="java" width="50" height="50"/></code> 
-    </a>
-    <a href="https://devdocs.io/html/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" height="50"/></code> 
-    </a>
-    <a href="https://devdocs.io/css/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" alt="css" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.php.net/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://getbootstrap.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain.svg" alt="bootsrap" width="50" height="50"/></code> 
-    </a>
-    <a href="https://atom.io/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/atom/atom-original.svg" alt="atom" width="50" height="50"/></code> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="git" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://github.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/github/github-original.svg" alt="github" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.android.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/android/android-original.svg" alt="android" width="50" height="50"/></code> 
-    </a>
-    <a href="https://ubuntu.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.wordpress.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="50" height="50"/></code> 
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=faheemahmad227&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheemahmad227&layout=compact&hide_border=true" alt="Top languages" height="160"/>
 </p>
-<hr>
 
-## 🏆 Github Status
+---
 
-<!-- <img  src="https://github-readme-stats.vercel.app/api?username=faheemahmad227&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" > -->
+## 🤝 Connect with me
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=faheemahmad227&theme=dark" width="45%" >
-
-<!-- <hr>
- <h3><b>Language Meter:</b></h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheemahmad227&layout=compact" alt="faheemahmad227" /></p>
-
-<h3> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=faheemahmad227&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" /> -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faheemahmad227)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/faheemahmad227)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/TechiesTalk)
+[![Blog](https://img.shields.io/badge/Blog-TechiesTalk-0e75b6?style=flat&logo=rss&logoColor=white)](https://techiestalk.in)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/faheemahmad227)
