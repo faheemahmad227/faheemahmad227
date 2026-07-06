@@ -67,4 +67,4 @@ I spent three years as a Software Engineer at Cognizant maintaining and moderniz
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/faheemahmad227)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/TechiesTalk)
 [![Blog](https://img.shields.io/badge/Blog-TechiesTalk-0e75b6?style=flat&logo=rss&logoColor=white)](https://techiestalk.in)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/faheemahmad227)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/faheemahmad_in)
