@@ -1,5 +1,9 @@
 ![Faheem Ahmad — ML Engineer](github-banner-FA.svg)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to-Werkstudent_%26_Internship_roles-2ea44f?style=for-the-badge" alt="Open to Werkstudent and internship roles"/>
+</p>
+
 I spent three years as a Software Engineer at Cognizant maintaining and modernizing enterprise .NET applications on Azure - building CI/CD pipelines, ETL workflows, and systems serving 10,000+ users. Now I'm pursuing my Master's in Computer Science in Germany, focused on machine learning: from RAG pipelines and LLMs to graph neural networks and explainable AI.
 
 - 🔭 Currently working on the **ARAG Data Pipeline** - a modular Retrieval-Augmented Generation system with hybrid retrieval (semantic + keyword search) that grounds LLM outputs in verifiable sources to reduce hallucination and enable source attribution
@@ -49,15 +53,6 @@ I spent three years as a Software Engineer at Cognizant maintaining and moderniz
 | **Explainable GNN on Knowledge Graphs** | R-GCN for node classification on the AIFB knowledge graph (91.7% accuracy) with interpretability analysis of model decisions | PyTorch Geometric, R-GCN, RDFLib |
 | **TapShip** | e-Mandi platform connecting farmers directly to buyers - awarded a VTU innovation grant in agricultural technology | PHP, MySQL, JavaScript |
 | **Drowsiness Detection Device** | Real-time driver drowsiness detection via eye-blink tracking with automated IoT SMS alerts | OpenCV, Computer Vision, IoT |
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=faheemahmad227&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheemahmad227&layout=compact&hide_border=true" alt="Top languages" height="160"/>
-</p>
 
 ---
 
