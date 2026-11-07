@@ -1,7 +1,9 @@
 ![Faheem Ahmad — ML Engineer](github-banner-FA.svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_to-Werkstudent_%26_Internship_roles-2ea44f?style=for-the-badge" alt="Open to Werkstudent and internship roles"/>
+  <a href="https://faheemahmad.in">
+    <img src="https://img.shields.io/badge/Open_to-Werkstudent_%26_Internship_roles-2ea44f?style=for-the-badge" alt="Open to Werkstudent and internship roles"/>
+  </a>
 </p>
 
 I spent three years as a Software Engineer at Cognizant maintaining and modernizing enterprise .NET applications on Azure - building CI/CD pipelines, ETL workflows, and systems serving 10,000+ users. Now I'm pursuing my Master's in Computer Science in Germany, focused on machine learning: from RAG pipelines and LLMs to graph neural networks and explainable AI.
